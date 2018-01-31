@@ -1,0 +1,15 @@
+ .end{
+ 	display:inline-block;
+ }
+
+ button {
+ 	border-radius: 10%;
+ }
+
+ #top {
+ 	text-align: center;
+ 	background-color: #CBCD90;
+ 	margin-left: 35vh;
+ 	margin-right: 35vh;
+
+ }
